@@ -116,14 +116,14 @@
 
 /* Individual styles */
 .demo-1 body {
-	background: #3498db;
+	background: #5c88a5;
 }
 
 .demo-1 .grid figure button,
 .demo-3 .grid figure button {
 	top: 50%;
 	left: 50%;
-	border: 3px solid #fff;
+	border: 3px solid #8e0000;
 	background: transparent;
 	color: #fff;
 	opacity: 0;
@@ -156,7 +156,7 @@
 	left: 0;
 	padding: 15px;
 	width: 100%;
-	background: #fff;
+	background: #ffffff;
 	color: #333;
 	font-weight: 300;
 	-webkit-transform: translateY(100%);
